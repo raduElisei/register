@@ -1,0 +1,18 @@
+{
+  "description": "My Portofolio Subdomain",
+
+  "domain": "is-cool.dev",
+  "subdomain": "raduelisei",
+
+  "owner": {
+    "repo": "https://github.com/raduElisei/register",
+    "email": "45122923+raduElisei@users.noreply.github.com"
+  },
+
+  "record": {
+    "A": ["86.121.165.208"],
+    "CAA": [{ "flags": 0, "tag": "issue", "value": "letsencrypt.org" }]
+  },
+
+  "proxied": true
+}
