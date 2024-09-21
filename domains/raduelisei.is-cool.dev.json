@@ -13,7 +13,7 @@
     "A": ["86.121.165.208"],
     "CAA": [
       { "flags": 0, "tag": "issue", "value": "letsencrypt.org" },
-      { "flags": 0, "tag": "issue", "value": "digicert.com" }.
+      { "flags": 0, "tag": "issue", "value": "digicert.com" },
       { "flags": 0, "tag": "issuewild", "value": "letsencrypt.org" },
       { "flags": 0, "tag": "issuewild", "value": "digicert.com" }
     ]
